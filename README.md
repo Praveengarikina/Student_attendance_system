@@ -1,1 +1,1 @@
-# Student_attendance_system
+# Student_information_system
